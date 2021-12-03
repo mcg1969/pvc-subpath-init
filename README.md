@@ -3,8 +3,7 @@ Michael Grant, Anaconda, Inc., November 2021
 
 ## Motivation
 
-StackOverflow background [here](More at this link:
-https://stackoverflow.com/questions/43544370/kubernetes-how-to-set-volumemount-user-group-and-file-permissions).
+StackOverflow background [here](https://stackoverflow.com/questions/43544370/kubernetes-how-to-set-volumemount-user-group-and-file-permissions).
 
 When a Kubernetes pod mounts a PVC with a non-empty subPath, it
 will create that subdirectory on the volume if it does not yet exist.
